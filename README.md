@@ -53,7 +53,7 @@ if __name__ == "__main__":
 
 ---
 
-### 🎮 2. Hangama Game (`hangama.py`)
+### 🎮 2. Hangman Game (`hangman.py`)
 A fun word-guessing game played against the computer.
 * **Core Features:**
   * Random word selection.
